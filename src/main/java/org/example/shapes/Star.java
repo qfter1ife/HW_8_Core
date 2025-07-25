@@ -5,7 +5,7 @@ import org.example.Shape;
 public class Star extends Shape {
     @Override
     public String getName() {
-        return "Shape star look amazing";
+        return "Shape star looks good";
     }
 
     @Override
